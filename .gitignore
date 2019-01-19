@@ -8,5 +8,6 @@ report/
 *.html
 *.pyc
 *.log
+*.jtl
 ./interfaceTest.sublime-project
 ./interfaceTest.sublime-workspace
